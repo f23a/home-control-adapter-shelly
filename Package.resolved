@@ -1,0 +1,51 @@
+{
+  "originHash" : "1dd9b3abb8a58229d6acfac81c8ff6b3929246e293061e27ddbc54dd3fdf318d",
+  "pins" : [
+    {
+      "identity" : "home-control-client",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/f23a/home-control-client.git",
+      "state" : {
+        "revision" : "72f98d1a01048b2c9ddf8d6ffa884b98ad56525b",
+        "version" : "1.7.0"
+      }
+    },
+    {
+      "identity" : "home-control-kit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/f23a/home-control-kit.git",
+      "state" : {
+        "revision" : "bc203e6966942c3ab16912df9fb6f417cc11acca",
+        "version" : "1.8.3"
+      }
+    },
+    {
+      "identity" : "home-control-logging",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/f23a/home-control-logging.git",
+      "state" : {
+        "revision" : "8f37597c3a4c17a2ea8235d4343feba6766756da",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "swift-argument-parser",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-argument-parser.git",
+      "state" : {
+        "revision" : "41982a3656a71c768319979febd796c6fd111d5c",
+        "version" : "1.5.0"
+      }
+    },
+    {
+      "identity" : "swift-log",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/apple/swift-log.git",
+      "state" : {
+        "revision" : "9cb486020ebf03bfa5b5df985387a14a98744537",
+        "version" : "1.6.1"
+      }
+    }
+  ],
+  "version" : 3
+}
